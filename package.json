@@ -1,0 +1,22 @@
+{
+  "name": "ieti-nodejs",
+  "version": "1.0.0",
+  "description": "Lab ieti",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CAndresRa/Laboratorio-IETI.git"
+  },
+  "author": "Carlos Andres Ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CAndresRa/Laboratorio-IETI/issues"
+  },
+  "homepage": "https://github.com/CAndresRa/Laboratorio-IETI#readme",
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}
